@@ -1,4 +1,3 @@
-<img width="1280" height="720" alt="DEMO" src="https://github.com/user-attachments/assets/b10791a5-b32a-42ba-9ef2-379498b62a4b" />
 # Overview
 
 This project focuses on the development of an **AIoT Natural Language Control System** that bridges the gap between human natural language and hardware execution. By integrating a **Natural Language Processing (NLP)** translation engine with an **Arduino(ESP32-based hardware framework)**, the system allows non-technical users to control complex IoT devices using intuitive, conversational commands (e.g., "Flash the red light if an object is too close"). 
